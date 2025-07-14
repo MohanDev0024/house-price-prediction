@@ -89,7 +89,7 @@ def plot_feature_importance(model, features):
 
         fig, ax = plt.subplots()
         sns.barplot(x='Importance', y='Feature', data=importance_df, palette='viridis', ax=ax)
-        ax.set_title('Top 10 Important Features')
+        ax.set_title('Top 5 Important Features')
         st.pyplot(fig)
 
     except Exception as e:
