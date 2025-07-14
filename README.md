@@ -21,6 +21,8 @@ This project predicts housing prices using machine learning models trained on th
 
 ## 📊 Try the App
 To run locally:streamlit run app.py
+or 
+click here:https://house-price-prediction-lbaeenrmqtljmqwuayg8jp.streamlit.app/
 
 ## 👨‍💻 Author
 Mohan Gayen
